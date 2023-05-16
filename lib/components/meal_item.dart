@@ -11,6 +11,7 @@ class MealItem extends StatelessWidget {
       AppRoutes.mealDetail,
       arguments: meal,
     );
+    //Lidando com Future
     //     .then((result) {
     //   if (result == null) {
     //     print('NADNADANADA');
